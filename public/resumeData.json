@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Syed Faizan Ali",
+    "occupation": "I'm a Software Engineering Student at COMSATS University Lahore.",
+    "description": " \"Create a life you love\" ",
+    "image": "Faizan_DP.jpg",
+    "bio": "My name is Syed Faizan Ali, I'm a Software Developer. I love to collaborate with people and work on innovative ideas. I believe in teamwork and have strong leadership skills. I enjoy taking responsibility for challenging tasks and find viable solutions.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "Syedzada411@gmail.com",
+    "phone": "+92 324 4273980",
+    "address": {
+      "street": "Johar Town Lahore",
+      "city": "Lahore",
+      "state": "Pakistan",
+      "zip": "54000"
+    },
+    "website": "http://www.Google.com",
+    "resumedownload": "https://drive.google.com/file/d/1mQLoXsCCzHfz-nZQTkyW4nbt2pTXKqo5/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/syedfaizan.ali.54379",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/syed-faizan-ali-255668142/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Faizanshah21",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "COMSATS University Islamabad, Lahore campus",
+        "degree": "Bachelor of Software Engineering",
+        "graduated": "Continue",
+        "description": "To be garduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "Critical Coders",
+        "title": "Founder and CEO",
+        "years": "August 2020 - Present",
+        "description": "Developing Mobile and Web Apps."
+      },
+      {
+        "company": "Upwork",
+        "title": "Software Engineer",
+        "years": "June 2019 - April 2020",
+        "description": "Freelancing"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Android",
+        "level": "100%"
+      },
+      {
+        "name": "Javascript",
+        "level": "95%"
+      },
+      {
+        "name": "Project Management",
+        "level": "80%"
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "Software Testing",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "A Modern car renting application",
+        "category": "FYP | Built with Android, React.js, Node.js and Firebase",
+        "image": "car-renting.jpg",
+        "url": ""
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Personal Project | Built with React.js and Firebase",
+        "image": "amazon-clone.jpg",
+        "url": ""
+      },
+      {
+        "title": "Ecommerce Website",
+        "category": "Semester Project | Built with PHP and MYSQL",
+        "image": "ecommerce-php.jpg",
+        "url": ""
+      },
+      {
+        "title": "Data Warehouse",
+        "category": "Semester Project | Built with Python and SQL Server",
+        "image": "data-warehouse-python.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Without continual growth and progress, such words as improvement, achievement, and success have no meaning",
+        "user": "Benjamin Franklin"
+      },
+      {
+        "text": "Success is not what you have, but who you are",
+        "user": "Bo bennet"
+      }
+    ]
+  }
+}
